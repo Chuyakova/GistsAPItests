@@ -1,0 +1,9 @@
+{
+  "description": "This is nonexistent description for public gist",
+  "files": {
+    "nonexistentFileName.json": {
+      "content": "The content is here",
+      "filename": "newFileName.json"
+    }
+  }
+}

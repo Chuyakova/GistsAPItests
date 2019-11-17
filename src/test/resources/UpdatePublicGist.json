@@ -1,0 +1,9 @@
+{
+  "description": "This is description for public gist",
+  "files": {
+    "newPublicGistFile.txt": {
+      "content": "The updated content is here",
+      "filename": "updatedPublicGistFile.json"
+    }
+  }
+}
